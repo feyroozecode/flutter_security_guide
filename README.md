@@ -83,6 +83,7 @@ await HttpCertificatePinning.check(
   allowedSHAFingerprints: ['<empreinte_sha256>'],
   timeout: 50,
 );
+```
 
 Utiliser http_certificate_pinning ou ssl_pinning_plugin [12, 13].
 
